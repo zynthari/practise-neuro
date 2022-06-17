@@ -1,4 +1,4 @@
 "# practise-neuro" 
-Изученные материары:
-https://mydata.biz/ru/catalog/databases/names_db
-https://github.com/petrovich/pytrovich
+##Изученные материары:
+1. https://mydata.biz/ru/catalog/databases/names_db
+2. https://github.com/petrovich/pytrovich
